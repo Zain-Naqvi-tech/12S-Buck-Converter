@@ -4,9 +4,8 @@ This project is a custom DC-DC Step-Down (Buck) Converter designed in Altium Des
 ## Specifications
 | Parameter | Value |
 | :--- | :--- |
-| **Topology** | Non-Isolated Buck Converter |
-| **Input Voltage (Vin)** | [e.g., 12V - 24V DC] |
-| **Output Voltage (Vout)** | [e.g., 5V or 3.3V] |
-| **Max Output Current** | [e.g., 2A] |
-| **Switching Frequency** | [e.g., 300 kHz] |
-| **Main Controller IC** | [e.g., LM2596, TPS5430, etc.] |
+| **Input Voltage (Vin)** | [36V - 50.4V] |
+| **Output Voltage (Vout)** | [5V] |
+| **Max Output Current** | [3A] |
+| **Switching Frequency** | [500kHz] |
+| **Main Controller IC** | [LMR16030SDDAR] |
