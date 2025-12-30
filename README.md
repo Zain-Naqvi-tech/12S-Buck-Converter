@@ -4,11 +4,11 @@ This project is a custom DC-DC Step-Down (Buck) Converter designed in Altium Des
 ## Specifications
 | Parameter | Value |
 | :--- | :--- |
-| **Input Voltage (Vin)** | [36V - 50.4V] |
-| **Output Voltage (Vout)** | [5V] |
-| **Max Output Current** | [3A] |
-| **Switching Frequency** | [500kHz] |
-| **Main Controller IC** | [LMR16030SDDAR] |
+| **Input Voltage (Vin)** | 36V - 50.4V |
+| **Output Voltage (Vout)** | 5V |
+| **Max Output Current** | 3A |
+| **Switching Frequency** | 500kHz |
+| **Main Controller IC** | LMR16030SDDAR |
 
 <img width="1192" height="744" alt="Buck Converter PCB 3D Image" src="https://github.com/user-attachments/assets/de4ae958-c2ba-4fa7-823e-8d2253c1cc01" />
 
